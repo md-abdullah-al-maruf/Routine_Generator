@@ -1,0 +1,23 @@
+name: test2
+description: A Flutter project.
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  firebase_core: ^2.14.0
+  firebase_auth: ^4.6.3
+  cloud_firestore: ^4.8.2
+  firebase_core_platform_interface: ^4.8.0
+  
+
+  flutter:
+    sdk: flutter
+
+  # Other dependencies
+
+flutter:
+  assets:
+    - assets/pciu.png
+
+  # Other configurations for Flutter
